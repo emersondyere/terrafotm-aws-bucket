@@ -1,1 +1,1 @@
-# terrafotm-aws-bucket
+# terraform-aws-bucket
